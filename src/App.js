@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save and be ready to reload Johny V3.0.
+          Edit <code>src/App.js</code> and save and be ready to deploy from feature branch.
         </p>
         <a
           className="App-link"
